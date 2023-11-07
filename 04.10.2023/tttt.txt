@@ -1,0 +1,36 @@
+Zadanie 1
+clear	  <br>	CSS: clear
+code	  <applet>	<object>
+codebase  <applet>	<object>
+color	  <basefont>, <font>	CSS: color
+compact	  <dir>, <dl>, <menu>, <ol>, <ul>	CSS: margin-top, margin-bottom, line-height
+face	  <basefont>, <font>	CSS: font-family
+height	  <td>, <th>	CSS: height
+hspace	  <applet>, <img>, <object>	CSS: margin-left, margin-right
+language  <script>	Atrybut: type=""
+link	  <body>	 CSS: :link
+Zadanie 2
+- Nowe tagi, m.in.: section, article, header, footer, video, audio, progress;
+- Nowe typy pól "input", np. search, url, email, datetime, date, month;
+- Nowe atrybuty elementów formularz;
+Zadanie 3
+HTML 4.0 https://www.w3.org/TR/html4/
+HTML 4.01 https://www.w3.org/TR/html401/
+HTML 5.0
+Zadanie 4
+Witryna internetowa - witryna pełni rolę informacyjną dla użytkowników, można tutaj sprawdzać poprawną 
+pisownie słów (https://sjp.pwn.pl/)
+
+Portal internetowy - portal dający możliwość komunikację między sobą, jeden użytkownik zadaje pytanie, inni mu 
+odpowiadają, albo na odwrót (https://forum.dobreprogramy.pl/)
+
+Sklep internetowy - sklep internetowy służący do sprzedaży produktów w tym przypadku związanych ze sportem (https://sklep.kfd.pl/)
+
+Blog tekstowy - Miejsce w którym ludzie, mogą zamieszczać infomarcję, które docierają do róznych odbiorców,
+tematyki prowadzenia bloga mogą być różne, mozna poruszać tam dowolne tematy 
+
+Wideoblog - Blog w formacie wideo, nagrywane są tam krótkie, lub też długie filmiki z często zwięzłym przekazem do odbiorców
+Zadanie 5
+
+
+
