@@ -31,6 +31,34 @@ tematyki prowadzenia bloga mogą być różne, mozna poruszać tam dowolne temat
 
 Wideoblog - Blog w formacie wideo, nagrywane są tam krótkie, lub też długie filmiki z często zwięzłym przekazem do odbiorców
 Zadanie 5
+Wortal internetowy
+Strona zajmuję się określonym tematem związanym mocno z edukacją
 
+Zadanie 6
+1. Błędna
+2. Błędna
+3. Błędna
+4. Poprawna
+5. Błędna
+Zadanie 7
+SGML - 1986
+SML - 1996
+XHTML - 2000
+Markdown - 2004
+YAML - 2001
+HTML5 - 2014
+TOML - 2013
+
+TEST
+1A
+2D
+3C
+4C
+5A
+
+Zadanie egzaminacyjne
+1. HTML - podstawowy język używany do tworzenia stron internetowych, html jest niezbędne do definiowania struktury i zawartości strony
+2. CSS - język służący do stylizacji i formatowania stron, css pozwala na nadanie stronie atrakcyjnego wyglądu poprzez czcionki, kolory, marginesy, tła itd
+3. JavaScript - pozwala na tworzenie bardziej skomplikowanych stron, może miec zastosowanie w dodawaniu róznych interaktywnych quizów, formularzy itp
 
 
