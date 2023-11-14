@@ -1,0 +1,18 @@
+     Karta pracy
+Zadanie 1
+Strict DTD - Przeznaczony dla dokumentów zgodnych z html 4.01, eliminuje wiele elementów i atrybutów uznając je jako przestarzałe
+Transitional DTD - Kompatybilne z wcześniejszymi wersjami html pozwalając na lepsze dostosowanie swojej strony łącząc elementy nieobecne w strict dtd
+Frameset DTD - Przeznaczony do dokumentów zawierający ramki, umożliwia definiowanie układu strony z ich wykorzystaniem
+Zadanie 2
+1 <!DOCTYPE html>
+2 <head>  
+<title>Document</title>  
+</head>
+3 <body>
+To jest moja strona internetowa
+  </body>
+Zadanie 3
+1. Polskim
+2. Przykład do zadania
+3. UTF-8
+
