@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>siema</title>
+</head>
+<body>
+    <picture>
+        <source media="(min-width:650px)" srcset="eko1.jpg">
+        <source media="(min-width:450px)" srcset="eko2.jpg">
+        <img src="eko3.jpg" alt="ekoludek3">
+    </picture>
+ <video width="320" height="240" controls autoplay loop="10">
+   <source src="Tom & Jerry  New Year, Same Duo  Classic Cartoon Compilation  WB Kids.mp4" type="video/mp4">
+   Twoja przegladarka nie obsluguje tego formatu.
+ </video>
+<audio controls>
+    <source src="The Nun II Soundtrack  Crime Scene - Marco Beltrami  WaterTower.mp3" type="audio/mp3">
+    Przegladarka nie wspiera tego formatu.
+</audio>
+</body>
+</html>
